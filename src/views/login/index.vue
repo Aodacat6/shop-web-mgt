@@ -81,7 +81,7 @@
       </el-form>
     </div>
     <div class="footer">
-      Copyright©2020 icutej.com. All rights reserved.
+      Copyright©2021 damiaostation.top. All rights reserved. <a href="http://beian.miit.gov.cn/" title="鲁ICP备2021024605号">鲁ICP备2021024605号</a>
     </div>
   </div>
 </template>
@@ -98,8 +98,8 @@
         loginPage: true,
         indexBg: 'url(/static/images/login-bg.png)',
         loginForm: {
-          username: 'demo',
-          password: '123123'
+          // username: 'demo',
+          // password: '123123'
         },
         loginRules: {
           username: [

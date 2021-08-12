@@ -7,7 +7,7 @@
       <tags-view/>
       <app-main/>
       <div class="footer">
-        Copyright©2020 icutej.com. All rights reserved.
+         Copyright©2021 damiaostation.top. All rights reserved. <a href="http://beian.miit.gov.cn/" title="鲁ICP备2021024605号">鲁ICP备2021024605号</a>
       </div>
     </div>
   </div>
